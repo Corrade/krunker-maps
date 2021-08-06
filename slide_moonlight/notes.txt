@@ -1,0 +1,29 @@
+text
+_______________________________________________________________________________
+
+https://www.youtube.com/watch?v=GfEiozV65Jw
+Slide hopping.
+
+Fundamentals\n9 levels
+Set A\n8 levels
+Set B\n4 levels
+
+
+Contact
+Find me on Discord @ Corrade 0901 for any feedback or WR submissions. I give 500kr to anyone who reports a new bug or cheese.
+
+Changelog
+- 13th Jan 2020: Initial release\n- 13th Jan 2020: Updated levels 9, 10, 16, 19\n- 14th Jan 2020: Updated levels 1, 9, 19\n- 17th June 2020: Updated signs\n- 8th Dec 2020: Adapted to 60 FPS; updated signs, updated levels 1, 2, 3, 6, 8, 13, 10, 19\n- 2nd Jan 2021: Updated signs and spawn area\n- 13th Jan 2021: Updated signs, added WR, added checkpoint return\n- 17th Jan 2021: Removed teleporters at the end of the map, readded death zone, updated levels 4, 6, 11, 13-15, 21\n- 18th Jan 2021: Updated level 15\n- 31th Jan 2021: Improved teleporters, updated level 13\n- 13th February 2021: Updated levels 15, 17\n- 11th May 2021: Updated levels 9, 17\n- 17th May 2021: Added leaderboard\n- 21st June 2021: Updated leaderboard, updated end area, updated levels 5, 11\n- 23rd June 2021: Updated leaderboard, updated levels 4, 9\n- 25th June 2021: Updated leaderboard, updated levels 1, 10, 11, 15\n- 26th June 2021: Updated level 17\n- 14th July 2021: Fixed timing for out-of-order runs, updated level 15
+
+Fix Broken Time
+Is your time not being recorded? Fix this issue by holding this         button. Your next run will replace your record.
+
+Your next run will replace your record.
+
+Note
+I've released a new slide map called slide_daydream! I recommend playing it before this one if you struggle here as it has a much better tutorial.
+
+WR: 01:39.9\nby Mici1
+Prior to 17th Jan 2021, the Any% WR was 01:49.7 by |W| and the glitchless WR was 02:25.2 by Ratetacalenta.
+
+Return to Checkpoint

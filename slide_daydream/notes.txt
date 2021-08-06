@@ -1,0 +1,173 @@
+
+tutorial (10) yellow
+    6. long jump
+    7. slide hopping
+    8. slide strafing
+    5. slipping
+    9. ducking
+    20. air strafing
+    21. braking
+    18. ramps
+    22. driveby
+    23. altogether
+
+zone a (10) red
+             a b c d e f
+    5  3  3  x . x . x . 30. gutter
+    4  4  4  . . x . . . 10. little weave
+    5  4  4  x . . x . . 16. tumble
+    6  4  4  x x x . . x 33. skid
+    5  4  4  . . . . x . 14. bridge
+    5  5  5  . x . . x x 28. backtrack
+    5  5  5  x x . . . . 25. ramp turn
+    6  6  4  . . . . x . 26. halt
+    5  5  6  x . . . . . 27. xylophone
+    6  6  5  x x . . . x 11. 180
+
+zone b (10) blue
+             a b c d e f
+    6  5  6  . x . . . . 24. tsunami
+    7  6  6  . . . . x x 32. stroll
+    8  6  6  . x . x . x 12. opposing ramps
+    8  6  6  x . . . . . 15. balcony
+    8  8  7  . . . . . x 31. ravine
+    8  8  7  . . . . . x 3. subzero mid
+    9  8  7  . . . . x x 29. train
+    10 8  7  x x . . . x 13. sandstorm underpass
+    11 8  .  x . . x . x 35. double
+    10 9  7  . . x . x . 17. neo
+
+zone c (5) black
+             a b c d e f
+    11 8  7  . . . x . x 1. wrap
+    .  x  .  . . . . . x 2. flick
+    12 9  8  . . . . . . 4. big weave
+    .  x  .  . . . x x x 34. tornado
+    .  x  .  x x x . x x 19. mountain
+
+a. slipping
+b. ramps
+c. ducking
+d. air strafing
+e. braking
+f. driveby
+
+
+ids
+    0: start
+    991: zone a spawn area
+    992: zone b spawn area
+    993: zone c spawn area
+    994: end zone
+
+sign info
+    https://js.do/Corrade/krunker_sign_matcher
+    font size: small 40, med 66, large 93
+    width: 20
+
+detailed changelog
+    gift 500kr for each error
+    unrewarded contributions are indented one level more
+
+    noob
+        #24. balcony: hopped off ledge, replaced with clouds
+        broadcast msg triggered on respawn, moved checkpoint below trigger
+    w
+        #20. 180: stood on edge and hopped through ceiling to end, extruded to remove edge and moved ceiling outwards
+        #21. tsunami: jumped on rock pillars, heightened
+    drip
+            #26. subzero mid: neo'd rocks, added clouds
+    turtles
+        #10. altogether: jumped on bush, heightened bush
+        #10. altogether: big windup wrap around to start, added clouds
+        #13. tumble: strafe from stone to end, widened clouds
+        #14. skid: static from 3rd last, distanced end
+        #16. backtrack: wind-up, added clouds
+        #17. ramp turn: jumped from dirt to last, raised clouds
+        #24. balcony: strafed around balcony, widened wall
+        #25. ravine: hop on leaf, removed
+        #26. subzero mid: jumped on mountains, heightened
+        #26. subzero mid: hopping on mid then on red over yellow to end, moved starting platform back
+        #27. train: neo'd yellow wall, widened
+        #28. sandstorm: static from last ramp, added ceiling
+        #28. sandstorm: jumped through yellow to end, moved yellow out
+        #28. sandstorm: static from last using headhitter, replaced bars with clouds
+        #29. double: theoretically landed on destructibles, heightened
+        #30. neo: jumped on gates, heightened gates
+        #31. wrap: air strafed to 2nd last, enlarged clouds
+        #31. wrap: neo around red, added clouds
+        #34. tornado: start to bottom stone then finish
+    nomatter
+        #29. double: level tele above spawn tele, lowered level tele
+        #33. big weave: got ontop of the rock formation, heightened
+    treymeister
+        #33. big weave: air strafed around last, widened
+    shrxggy
+        #20. 180: last slip is inconsistent on sub-60 fps
+        #21. tsunami: jumped on back of last ramp, heightened
+        #33. big weave: jumped to first rock wall, heightened
+        #34. tornado: various strafes, adjusted clouds
+    mariokrunker1
+        #3: subzero mid: missing tp back to spawn
+    scuff
+        #11. gutter: wind-up using 0-3, added clouds
+        #13. tumble: strafed/fell down from first platform to first rock, heightened cloud
+        #21. tsunami: jumped back on the first ramp to the finish, added clouds
+        #25. ravine: shot target from the platform, altered beanstalk
+        #26. subzero mid: wind-up on start to jump on mid, then jumped on red to finish, heightened red
+        #27. train: shot red then yellow from platform before yellow, widened cloud near yellow
+        #34. tornado: turn then duck beneath clouds on first dirt, extruded cloud
+        #34. tornado: wind-up on 0-2 then fling left, hit yellow and proceed, added cloud
+        #35. mountain: pause on last flat dirt then finish, shrunk last flat dirt
+        times for out-of-order runs aren't being recorded
+    tgferer
+        times for out-of-order runs aren't being recorded
+    slide
+        #33. big weave: wind-up using 0-1, fling off second to the roof of another, heightened second walls
+    me
+        #14. skid: static from 2nd last, distanced end
+        #16. backtrack: jump through red to end, moved red down
+        #17. ramp turn: air strafe to last without turning around vines, widened clouds
+        #22. stroll: various wind-up skips, added clouds
+        #28. sandstorm: shrunk and moved red out to give room to fall
+        #29. double: wind-up, added clouds
+
+    windup, air strafing, jumping on platforms that should be higher, jumping through ceilings
+
+text
+_______________________________________________________________________________
+
+https://www.youtube.com/watch?v=8rSgaic0RfE
+Slide hopping and aim training.
+
+Tutorial\n10 levels
+Zone A\n10 levels
+Zone B\n10 levels
+Zone C\n5 levels
+
+WR: 04:55.4 by Mici1
+
+Contact
+Find me on Discord @ Corrade 0901 for any feedback or WR submissions. I give 500kr to anyone who reports a new bug or cheese.
+
+Changelog
+- 1st Jan 2021: Initial release\n- 2nd Jan 2021: Updated levels 20, 22, 24, 26-29, 31, 33\n- 4th Jan 2021: Updated levels 10, 13, 14, 16, 17, 21, 24-26, 28-31, 33, 34\n- 13th Jan 2021: Removed broadcast, updated signs, added WR, added checkpoint return\n- 15th Jan 2021: Updated levels 20, 34, readded death zone\n- 19th Jan 2021: Updated signs, added weapons\n- 20th Jan 2021: Set crossbow ammo to 1\n- 11th May 2021: Updated levels 24, 34\n- 17th May 2021: Added leaderboard\n- 21st June 2021: Updated leaderboard\n- 23rd June 2021: Updated leaderboard, updated level 26\n- 25th June 2021: Updated leaderboard\n- 7th July 2021: Fixed timing for out-of-order runs, updated levels 11, 13, 21, 25-27, 33-35
+
+Fix Broken Time
+Is your time not being recorded? Fix this issue by holding this         button. Your next run will replace your record.
+
+Your next run will replace your record.
+
+1. Strafe Jumping\nEquip your melee and move diagonally to go the fastest.\n\nDescend the ladder behind you to return to the spawn area. Avoid the clouds!
+2. Slide Hopping\nCrouch just before hitting the ground to slide. Then, release crouch and immediately jump to hop.
+3. Slide Strafing\nFace in the direction you want to go while you slide.
+4. Slipping\nOnce you reach the first dirt platform, slide off the edge instead of hopping and then slide hop from the next.
+5. Ducking\nCrouch mid-air to duck.
+6. Air Strafing\nMove mid-air to air strafe.
+7. Braking\nControl your speed by changing weapons, aiming down sights, air strafing, crouching or slide hopping differently.
+8. Ramps\nTo slide hop off of a front-facing ramp, slide until you reach the top and then hop. For side-facing ramps, slide hop normally.
+9. Driveby\nShoot the balloon to temporarily remove the block with the same colour.
+10. Altogether\nAltogether now!
+
+Based on Subzero by CrispyCrust
+Based on Sandstorm by CrispyCrust
