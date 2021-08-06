@@ -42,7 +42,7 @@ These are the mechanics and skills you may want to exercise in your map.
 - **Dynamic movement**: feature exciting movements like high drops, long jumps and sharp turns
 - **Consistent fun**: spread out the fun levels to keep players interested
 - **Smooth difficulty curve**: sequence your map so that each level is just as hard or harder than the level before it
-- **Fair warning**: if a level introduces a new concept, present that concept early. Don't ending with something new, it feels gimmicky and frustrating.
+- **Fair warning**: if a level introduces a new concept, present that concept early. Don't end with something new, it feels gimmicky and frustrating.
 - **Flow**
     - Clearly define where each level ends and where the next one begins
     - Make navigation between levels easy and unconfusing
