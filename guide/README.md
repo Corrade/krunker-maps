@@ -67,7 +67,8 @@ These are the mechanics and skills you may want to exercise in your map.
     - Solution: block the player with a teleporter that returns them to the start of the level
 - Unintended slipping
     - Solution: add a lip to the platform
-    ![Lip](lip.png "Lip")
+
+        ![Lip](assets/lip.png "Lip")
 
 ### Connecting levels
 - Physically connecting levels (e.g. `slide_moonlight`):
@@ -110,7 +111,7 @@ slide_daydream zone A (red)
 
 A cell that's crossed out at row X column Y means that level X involves technique Y. For example, in the table above, the level called "backtrack" involves techniques b, e and f, which are ramps, braking and driveby. "Backtrack" is level 16 on `slide_daydream`:
 
-![Daydream level 16: "Backtrack"](daydream_lv16.png "Daydream level 16: \"Backtrack\"")
+![Daydream level 16: "Backtrack"](assets/daydream_lv16.png "Daydream level 16: \"Backtrack\"")
 
 The table above tells us that there's a nice distribution of slipping (a), ramps (b), braking (e) and driveby (f) in that set of levels, whereas ducking (c) is concentrated near the start and there's very little air strafing (d). I was satisfied with this spread, but if I wasn't, I could easily see where the problem was and what levels I could modify.
 
@@ -156,7 +157,7 @@ Use a table like this to order your levels by difficulty and visualise the distr
 - A 60 FPS player can jump over a wall about 18 units high
 - A 5 FPS player can jump over a wall about 20 units high
 - The maximum length a player can jump on 60 FPS is about 72 units. Use a cylinder with a diameter of 72 units as a ruler to ensure your platforms are spaced far apart enough (if you need to ensure this).
-![Measuring cylinder](measuring_cylinder.png "Measuring cylinder")
+![Measuring cylinder](assets/measuring_cylinder.png "Measuring cylinder")
 
 ### Implementation patterns
 - For level N, allocate teleport channel N and interface IDs N0, N1, N2, ..., N9
