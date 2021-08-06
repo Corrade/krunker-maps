@@ -63,7 +63,7 @@ These are the mechanics and skills you may want to exercise in your map.
     - Solution: vary the height of platforms so that players can't jump to previous ones
     - Solution: block the direction in which the player would launch themselves after building up speed
 - Unintended jumping
-    - Solution: add a low ceiling, although note that this still leaves the potential to perform headhitters
+    - Solution: add a low ceiling, although note that this enables headhitters
     - Solution: block the player with a teleporter that returns them to the start of the level
 - Unintended slipping
     - Solution: add a lip to the platform
@@ -158,7 +158,7 @@ These might be outdated.
 - Crouching players are about 9 units tall
 - A 60 FPS player can jump over a wall about 18 units high
 - A 5 FPS player can jump over a wall about 20 units high
-- The maximum length a player can jump on 60 FPS is about 72 units. Use a cylinder with a diameter of 72 units as a ruler to ensure your platforms are spaced far apart enough (if you need to ensure this).
+- The maximum length a player can jump on 60 FPS from one platform to another at the same height with only a run-up is about 72 units. Use a cylinder with a diameter of 72 units as a ruler to ensure your platforms are spaced far apart enough (if you need to ensure this). Note that you'll need to make adjustments if your platforms are at different heights etc.
 ![Measuring cylinder](assets/measuring_cylinder.png "Measuring cylinder")
 
 ### Implementation patterns
