@@ -119,13 +119,13 @@ Use a table like this to order your levels by difficulty and visualise the distr
 
 
 ## Aesthetics
-- An object should look collidable if and only if it is collidable
+- If an object looks collidable, make it collidable. If an object is collidable, it should look collidable.
     - If an object is obstructive as a result of this rule, delete it
     - This rule also applies to parts of objects; hitboxes should be completely clear
 - Spice things up using cosmetic landmarks and significant changes in elevation and direction
 - Create a "palette" of decorations or materials and then mix-and-match these to decorate each level. This creates a consistent theme.
 - Give the player a lot of space unless you're deliberately trying not to. Make wide starting platforms and large rooms.
-- Use fog wisely
+- Fog can do wonders - use it to your advantage
 - Raise the bar with custom assets
 
 
@@ -138,11 +138,13 @@ Use a table like this to order your levels by difficulty and visualise the distr
 - Rotation snapping 45deg
 
 ### Maximums
+These might be outdated.
+
 - Objects:
     - 3500 for unverified users
     - 6000 for verified users
     - In any case, stick to 3500 as only verified players will be able to host maps with >3500 objects
-- Signs: 35
+- Sign count: 35 signs
 - Map name length: 16 characters
 
 ### Noteworthy strange behaviours
