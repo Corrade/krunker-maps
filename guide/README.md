@@ -1,4 +1,4 @@
-# Slide Mapmaking Guide
+# Slide mapmaking guide
 
 ## Intro
 This is a guide I wrote for myself. It describes things that I **personally** think a good slide map could consider.
@@ -6,9 +6,9 @@ This is a guide I wrote for myself. It describes things that I **personally** th
 
 ## Process
 1. Build each level in isolation. Your map can just consist of a spawn room with teleporters to each level, where each level is totally separate from the others and contains a teleporter that returns you to the spawn (see `slide_map_template.txt`). This stage of development will probably be the most time-consuming.
-2. Playtest each level and rank them in terms of difficulty.
+2. Playtest each level and rank them in terms of difficulty
 3. Link the levels together - create the map itself. If you built all the levels facing in the same direction, you may want to rotate them at this stage to create an interesting layout.
-4. Work on the aesthetics.
+4. Work on the aesthetics
 
 The main point is that levels are first built in isolation. This gives you a lot of flexibility in comparison to designing all the levels in order. If you have an idea for an easy level, you can implement it straight away. If you want to make a hard level, you can also do that immediately. You don't have to commit yourself to a certain ordering of levels because all the arranging happens later.
 
@@ -70,7 +70,7 @@ These are the mechanics and skills you may want to exercise in your map.
 
         ![Lip](assets/lip.png "Lip")
 
-### Connecting levels
+### Options for connecting levels
 - Physically connecting levels (e.g. `slide_moonlight`):
     - Momentum can be maintained between levels, which is amazing for speedrunning
     - You can easily backtrack
