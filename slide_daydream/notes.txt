@@ -82,6 +82,7 @@ detailed changelog
         #10. altogether: big windup wrap around to start, added clouds
         #13. tumble: strafe from stone to end, widened clouds
         #14. skid: static from 3rd last, distanced end
+        #14. skid: hop onto red, heightened red
         #16. backtrack: wind-up, added clouds
         #17. ramp turn: jumped from dirt to last, raised clouds
         #24. balcony: strafed around balcony, widened wall
@@ -138,7 +139,7 @@ text
 _______________________________________________________________________________
 
 https://www.youtube.com/watch?v=8rSgaic0RfE
-Slide hopping and aim training.
+Slide hopping mixed with aim training. The difficulty ranges from beginner to advanced.
 
 Tutorial\n10 levels
 Zone A\n10 levels
@@ -151,7 +152,7 @@ Contact
 Find me on Discord @ Corrade 0901 for any feedback or WR submissions. I give 500kr to anyone who reports a new bug or cheese.
 
 Changelog
-- 1st Jan 2021: Initial release\n- 2nd Jan 2021: Updated levels 20, 22, 24, 26-29, 31, 33\n- 4th Jan 2021: Updated levels 10, 13, 14, 16, 17, 21, 24-26, 28-31, 33, 34\n- 13th Jan 2021: Removed broadcast, updated signs, added WR, added checkpoint return\n- 15th Jan 2021: Updated levels 20, 34, readded death zone\n- 19th Jan 2021: Updated signs, added weapons\n- 20th Jan 2021: Set crossbow ammo to 1\n- 11th May 2021: Updated levels 24, 34\n- 17th May 2021: Added leaderboard\n- 21st June 2021: Updated leaderboard\n- 23rd June 2021: Updated leaderboard, updated level 26\n- 25th June 2021: Updated leaderboard\n- 7th July 2021: Fixed timing for out-of-order runs, updated levels 11, 13, 21, 25-27, 33-35
+- 1st Jan 2021: Initial release\n- 2nd Jan 2021: Updated levels 20, 22, 24, 26-29, 31, 33\n- 4th Jan 2021: Updated levels 10, 13, 14, 16, 17, 21, 24-26, 28-31, 33, 34\n- 13th Jan 2021: Removed broadcast, updated signs, added WR, added checkpoint return\n- 15th Jan 2021: Updated levels 20, 34, readded death zone\n- 19th Jan 2021: Updated signs, added weapons\n- 20th Jan 2021: Set crossbow ammo to 1\n- 11th May 2021: Updated levels 24, 34\n- 17th May 2021: Added leaderboard\n- 21st June 2021: Updated leaderboard\n- 23rd June 2021: Updated leaderboard, updated level 26\n- 25th June 2021: Updated leaderboard\n- 7th July 2021: Fixed timing for out-of-order runs, updated levels 11, 13, 21, 25-27, 33-35,\n- 1st September 2021: Updated level 14
 
 Fix Broken Time
 Is your time not being recorded? Fix this issue by holding this         button. Your next run will replace your record.
